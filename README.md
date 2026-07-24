@@ -16,7 +16,7 @@
 - 👯 I'm looking to collaborate on **AI/ML projects, agentic AI builds, and data science work**
 - 🤔 I'm looking for help with **scaling agent-based projects and real-world ADK deployment**
 - 💬 Ask me about **Python, SQL, machine learning basics, or IEEE/community volunteering**
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/sanithi-dissanayake-04ba72381)** · **sanithi94125@gmail.com*
+- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/sanithi-dissanayake-04ba72381)** · **sanithi94125@gmail.com**
 - 😄 Pronouns: **She/Her**
 
 ---
